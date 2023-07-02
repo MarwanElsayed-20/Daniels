@@ -1,0 +1,306 @@
+/* typing effect */
+@keyframes typing {
+  0% {
+    content: "";
+  }
+  1% {
+    content: "D";
+  }
+  2% {
+    content: "De";
+  }
+  3% {
+    content: "Dev";
+  }
+  4% {
+    content: "Deve";
+  }
+  5% {
+    content: "Devel";
+  }
+  6% {
+    content: "Develo";
+  }
+  7% {
+    content: "Develop";
+  }
+  8% {
+    content: "Develope";
+  }
+  9% {
+    content: "Developer";
+  }
+  10% {
+    content: "Developer";
+  }
+  11% {
+    content: "Developer";
+  }
+  12% {
+    content: "Developer";
+  }
+  13% {
+    content: "Developer";
+  }
+  14% {
+    content: "Developer";
+  }
+  15% {
+    content: "Developer";
+  }
+  16% {
+    content: "Develope";
+  }
+  17% {
+    content: "Develop";
+  }
+  18% {
+    content: "Develo";
+  }
+  19% {
+    content: "Devel";
+  }
+  20% {
+    content: "Deve";
+  }
+  21% {
+    content: "Dev";
+  }
+  22% {
+    content: "De";
+  }
+  23% {
+    content: "D";
+  }
+  24% {
+    content: "De";
+  }
+  25% {
+    content: "Des";
+  }
+  26% {
+    content: "Desi";
+  }
+  27% {
+    content: "Desig";
+  }
+  28% {
+    content: "Design";
+  }
+  29% {
+    content: "Designe";
+  }
+  30% {
+    content: "Designer";
+  }
+  31% {
+    content: "Designer";
+  }
+  32% {
+    content: "Designer";
+  }
+  33% {
+    content: "Designer";
+  }
+  34% {
+    content: "Designer";
+  }
+  35% {
+    content: "Designer";
+  }
+  36% {
+    content: "Designer";
+  }
+  37% {
+    content: "Designer";
+  }
+  38% {
+    content: "Designe";
+  }
+  39% {
+    content: "Design";
+  }
+  40% {
+    content: "Desig";
+  }
+  41% {
+    content: "Desi";
+  }
+  42% {
+    content: "Des";
+  }
+  43% {
+    content: "De";
+  }
+  44% {
+    content: "D";
+  }
+  45% {
+    content: "";
+  }
+  46% {
+    content: "L";
+  }
+  47% {
+    content: "La";
+  }
+  48% {
+    content: "Lar";
+  }
+  49% {
+    content: "Larr";
+  }
+  50% {
+    content: "Larry";
+  }
+  51% {
+    content: "Larry ";
+  }
+  52% {
+    content: "Larry D";
+  }
+  53% {
+    content: "Larry Da";
+  }
+  54% {
+    content: "Larry Dan";
+  }
+  55% {
+    content: "Larry Dani";
+  }
+  56% {
+    content: "Larry Danie";
+  }
+  57% {
+    content: "Larry Daniel";
+  }
+  58% {
+    content: "Larry Daniels";
+  }
+  59% {
+    content: "Larry Daniels";
+  }
+  60% {
+    content: "Larry Daniels";
+  }
+  61% {
+    content: "Larry Daniels";
+  }
+  62% {
+    content: "Larry Daniels";
+  }
+  63% {
+    content: "Larry Daniels";
+  }
+  64% {
+    content: "Larry Daniels";
+  }
+  65% {
+    content: "Larry Daniels";
+  }
+  66% {
+    content: "Larry Daniel";
+  }
+  67% {
+    content: "Larry Danie";
+  }
+  68% {
+    content: "Larry Dani";
+  }
+  69% {
+    content: "Larry Dan";
+  }
+  70% {
+    content: "Larry Da";
+  }
+  71% {
+    content: "Larry D";
+  }
+  72% {
+    content: "Larry ";
+  }
+  73% {
+    content: "Larry";
+  }
+  74% {
+    content: "Larr";
+  }
+  75% {
+    content: "Lar";
+  }
+  76% {
+    content: "La";
+  }
+  77% {
+    content: "L";
+  }
+  78% {
+    content: "D";
+  }
+  79% {
+    content: "Da";
+  }
+  80% {
+    content: "Dan";
+  }
+  81% {
+    content: "Dani";
+  }
+  82% {
+    content: "Danie";
+  }
+  83% {
+    content: "Daniel";
+  }
+  84% {
+    content: "Daniels";
+  }
+  85% {
+    content: "Daniels";
+  }
+  86% {
+    content: "Daniels";
+  }
+  87% {
+    content: "Daniels";
+  }
+  88% {
+    content: "Daniels";
+  }
+  89% {
+    content: "Daniels";
+  }
+  90% {
+    content: "Daniels";
+  }
+  91% {
+    content: "Daniels";
+  }
+  92% {
+    content: "Daniels";
+  }
+  93% {
+    content: "Daniels";
+  }
+  94% {
+    content: "Daniels";
+  }
+  95% {
+    content: "Daniel";
+  }
+  96% {
+    content: "Danie";
+  }
+  97% {
+    content: "Dani";
+  }
+  98% {
+    content: "Dan";
+  }
+  99% {
+    content: "Da";
+  }
+  100% {
+    content: "D";
+  }
+}
